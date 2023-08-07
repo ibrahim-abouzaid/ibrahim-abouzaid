@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Mobile development with Flutter**
 
-- 🤝 I’m looking for help with **mentorship/career-development (especially in the game industry).**
+- 🤝 I’m looking for help with **mentorship/career-development.**
 
 
 
