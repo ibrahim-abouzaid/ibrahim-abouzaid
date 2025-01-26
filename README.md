@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web development with Java**
 
-- 🤝 I’m looking for help with **mentorship/career-development (especially in the game industry).**
+- 🤝 I’m looking for help with **mentorship/career-development.**
 
 - 📫 How to reach me **ibrahim.m.abouzaid@gmail.com**
 
